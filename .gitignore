@@ -1,0 +1,25 @@
+# Personal plan data and runtime state
+plan_data.json
+plan_data.json.bak
+settings.json
+*.log
+*.log.old
+
+# Optional local speech model cache
+models/
+
+# Python and editor files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.idea/
+.vscode/
+
+# Generated packages
+build/
+dist/
+*.exe
+*.msi
+

@@ -1,0 +1,8 @@
+# Image-backed skins
+Pillow>=10,<13
+
+# Optional local voice input
+numpy>=1.26,<3
+sounddevice>=0.4.6,<1
+faster-whisper>=1.1,<2
+

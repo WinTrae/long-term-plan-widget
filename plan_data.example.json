@@ -1,0 +1,22 @@
+{
+  "updatedAt": "2026-09-04",
+  "tasks": [
+    {
+      "id": "example-001",
+      "title": "整理本周计划",
+      "note": "把重要事项拆成可以完成的小步骤",
+      "status": "todo",
+      "createdAt": "2026-09-04",
+      "dueAt": "2026-09-06"
+    },
+    {
+      "id": "example-002",
+      "title": "完善项目文档",
+      "note": "补充安装方式和隐私说明",
+      "status": "done",
+      "createdAt": "2026-09-03",
+      "completedAt": "2026-09-04"
+    }
+  ]
+}
+
